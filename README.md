@@ -44,7 +44,7 @@ Note: Game requires system support for ANSI color code in order to play.
 		
 3. You should see the following welcome message:
 
-		Welcome to LiftIgniter chess! Select a game type:
+		Welcome to chess! Select a game type:
 
 		1. AI vs. AI
 		2. Human vs. AI
