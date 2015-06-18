@@ -5,7 +5,7 @@ Authored by: Hou GuoChen Gary
 
 The project folder is structured as follows:
 
-	liftigniter_challenge
+	chess
 		__init__.py
 		constants.py
 		games.py
@@ -37,7 +37,7 @@ utility.py: custom utility functions used by modules.
 The solution supports interaction via stdin in the command line interface.
 Note: Game requires system support for ANSI color code in order to play.
 
-1. Navigate to project level folder `../path/to/liftigniter_challenge`
+1. Navigate to project level folder `../path/to/chess`
 2. In command line interface, type the following to start game:
 
 		$ python main.py
